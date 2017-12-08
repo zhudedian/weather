@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather</string>
+
+    <string name="auto_city">自动获取城市</string>
+    <string name="hot_city">热门城市</string>
+    <string name="city_pick">选择城市</string>
+</resources>
